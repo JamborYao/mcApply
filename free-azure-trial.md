@@ -1,11 +1,11 @@
 # Azure 1元体验账号详细申请过程
 
-- 如何获得邀请码
-- 通过邀请码注册体验账号
-- 查看订阅详情及使用Azure管理门户
+- [如何获得邀请码](#getcode)
+- [通过邀请码注册体验账号](#register)
+- [查看订阅详情及使用Azure管理门户](#info)
 
 
-## 如何获得邀请码
+## <a id="getcode"></a>如何获得邀请码
 
 登录[Azure官方网站](http://www.azure.cn),找到申请试用，然后填写试用申请表。
 
@@ -15,7 +15,7 @@
 
 ![](./free-azure-trial/submit-information.png)
 
-## 通过邀请码注册体验账号
+## <a id="register"></a>通过邀请码注册体验账号
 
 二十一世纪互联会审核之前我们提交的信息，之后我们会收到邮件如下图，这期间可能需要一些时间，请耐心等待：
 
@@ -48,7 +48,7 @@
 
 ![](./free-azure-trial/get-account-info.png)
 
-## 查看订阅详情及使用Azure管理门户
+## <a id="info"></a>查看订阅详情及使用Azure管理门户
 
 点击“1元人民币的试用订阅”查看订阅的使用情况，或者点击[Azure账户](https://account.windowsazure.cn/)，点击右上角登陆。
 
