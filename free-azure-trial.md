@@ -1,13 +1,13 @@
-# Azure 1元体验账号详细申请过程
+# Azure 在线直付注册流程（1RMB）
 
-- [如何获得邀请码](#getcode)
-- [通过邀请码注册体验账号](#register)
-- [查看订阅详情及使用Azure管理门户](#info)
+- [获得邀请码流程](#getcode)
+- [注册流程](#register)
+- [查看订阅详情及使用 Azure 管理门户](#info)
 
 
-## <a id="getcode"></a>如何获得邀请码
+## <a id="getcode"></a>获得邀请码流程
 
-登录[Azure官方网站](http://www.azure.cn),找到申请试用，然后填写试用申请表。
+登录 [Azure 官方网站](https://www.azure.cn),找到申请试用，然后填写试用申请表。
 
 ![](./free-azure-trial/find-free-link.png)
 
@@ -15,9 +15,9 @@
 
 ![](./free-azure-trial/submit-information.png)
 
-## <a id="register"></a>通过邀请码注册体验账号
+## <a id="register"></a>注册流程
 
-二十一世纪互联会审核之前我们提交的信息，之后我们会收到邮件如下图，这期间可能需要一些时间，请耐心等待：
+世纪互联会审核之前我们提交的信息，之后我们会收到邮件如下图，这期间可能需要一些时间，请耐心等待：
 
 ![](./free-azure-trial/email-code.png)
 
@@ -31,8 +31,7 @@
 
 ![](./free-azure-trial/register-after-check-name.png)
 
-
-填入您的手机号码发送验证码，输入验证码点击“验证代码”，然后点击继续，这时跳入登入页面，输入之前设置的密码进行登录，同时我们也会收到世纪互联发送的关于我们Azure体验账号相关信息的邮件
+填入您的手机号码发送验证码，输入验证码点击“验证代码”，然后点击继续，这时跳入登入页面，输入之前设置的密码进行登录，同时我们也会收到世纪互联发送的关于我们 Azure 体验账号相关信息的邮件
 
 ![](./free-azure-trial/login-in.png)
 
@@ -40,7 +39,7 @@
 
 ![](./free-azure-trial/pay-for-azure-account.png)
 
-输入个人相关信息，点击“购买”（例子中选择支付宝支付方式）
+输入个人相关信息，点击“购买”（例子中为支付宝支付方式）
 
 ![](./free-azure-trial/pay-1-yuan.png)
 
@@ -48,9 +47,9 @@
 
 ![](./free-azure-trial/get-account-info.png)
 
-## <a id="info"></a>查看订阅详情及使用Azure管理门户
+## <a id="info"></a>查看订阅详情及使用 Azure 管理门户
 
-点击“1元人民币的试用订阅”查看订阅的使用情况，或者点击[Azure账户](https://account.windowsazure.cn/)，点击右上角登陆。
+点击“1元人民币的试用订阅”查看订阅的使用情况，或者点击 [Azure 账户门户](https://account.windowsazure.cn/)，点击右上角登陆。
 
 ![](./free-azure-trial/account-info.png)
 
