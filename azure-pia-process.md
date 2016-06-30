@@ -58,4 +58,14 @@
 
 ![](./media/azure-pia-process/pay-money.png)
 
-使用支付宝扫一扫整个注册就完成了！
+使用支付宝扫一扫整个注册就完成了！如果您在处理付款状态的时候出于某些原因没有成功，您也可以尝试[Azure 账户门户](https://account.windowsazure.cn/)，点击右上角登陆。
+
+![](./media/azure-pia-process/login-in-account.png)
+
+输入用户名密码登录
+
+![](./media/azure-pia-process/sign-in.png)
+
+点击高亮部分继续完成付款。
+
+![](./media/azure-pia-process/account-detail.png)
